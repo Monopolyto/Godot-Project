@@ -1,0 +1,15 @@
+Como ejecutar Godot.zip?
+-------------------------
+Primero se debe descomprimir el archivo,
+con esto se nos extraera una carpeta con sus respectivos
+elementos necesarios para la ejecucion del juego.
+
+**Evitar eliminar algunos de estos, de lo contrario
+**el programa presentara fallos al intentar leerlo
+
+Para poder ejecutarlo dentro de godot se
+debe seleccionar la opcion de "Importar"
+Examinando la carpeta principal "Godot"
+y abriendo el archivo "project.godot"
+Con esto se nos seleccionara y podremos
+editarlo como visualizarlo con sus respectivos elementos
